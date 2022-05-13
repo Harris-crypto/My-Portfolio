@@ -1,18 +1,19 @@
 /* header */
 
 h1 {
-  font-size: 40px
+  font-size: 40px;
 }
 
 header {
-    background-color: #ADD8E6 lightblue;
+    background-color: #ADD8E6;
     margin: auto;
     padding: 0;
     height: 100px;
+  text-align: center;
 }
 
 h1, h2, h3, h4 {
-  color: #006400 darkgreen;
+  color: #006400;
   text-align: center;
 }
 
@@ -21,7 +22,7 @@ h1, h2, h3, h4 {
 main {
   font-family: Helvetica, Arial, sans-serif;
   color: gray;
-  background-color: #ADD8E6 lightblue;
+  background-color: #ADD8E6;
   margin: 0;
 }
 
@@ -33,7 +34,7 @@ p.center {
 
 footer.center {
   text-align: center;
-  background-color: #ADD8E6 lightblue;
+  background-color: #ADD8E6;
   margin: 0 auto;
   padding: 0
 }
