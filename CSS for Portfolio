@@ -5,14 +5,14 @@ h1 {
 }
 
 header {
-    background-color: light-blue;
+    background-color: #ADD8E6 lightblue;
     margin: auto;
     padding: 0;
     height: 100px;
 }
 
 h1, h2, h3, h4 {
-  color: dark-green;
+  color: #006400 darkgreen;
   text-align: center;
 }
 
@@ -21,7 +21,7 @@ h1, h2, h3, h4 {
 main {
   font-family: Helvetica, Arial, sans-serif;
   color: gray;
-  background-color: light-blue;
+  background-color: #ADD8E6 lightblue;
   margin: 0;
 }
 
@@ -33,7 +33,7 @@ p.center {
 
 footer.center {
   text-align: center;
-  background-color: light-blue;
+  background-color: #ADD8E6 lightblue;
   margin: 0 auto;
   padding: 0
 }
